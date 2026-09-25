@@ -24,9 +24,10 @@ Les projets clients et le code de Standelle ne sont pas publics. Les dépôts ci
 | --- | --- | --- |
 | **5:7 — Festival de films** | Prototype React bilingue avec catalogue et parcours de réservation. L'aperçu GitHub Pages présente l'interface; les fonctions serveur nécessitent l'API. | [Code](https://github.com/Wanil123/cinema-57) · [Aperçu](https://wanil123.github.io/cinema-57/) |
 | **WeatherPro** | Interface météo Vue 3 bilingue, responsive et attentive à l'accessibilité. | [Code](https://github.com/Wanil123/weatherpro-vue) · [Démo](https://wanil123.github.io/weatherpro-vue/) |
-| **API de données d'essais cliniques** | Projet de démonstration d'API REST avec FastAPI, validation, migrations et tests. | [Code](https://github.com/Wanil123/Clinical_Trials-Data_API) |
+| **API de données d'essais cliniques** | Projet de démonstration d'API REST avec FastAPI, validation, migrations et tests. | [Code](https://github.com/Wanil123/clinical-trials-api) |
+| **SUSPENDED — Lecteur musical** | Application Vue 3 bilingue avec visualiseur audio, égaliseur et playlists locales. | [Code](https://github.com/Wanil123/suspended-music-player) |
 
-**Technologies utilisées :** React, Vue 3, JavaScript, TypeScript, Python, FastAPI, Node.js, APIs et tests automatisés.
+**Technologies utilisées :** React, Vue 3, JavaScript, TypeScript, Python, FastAPI, Node.js, WordPress, PHP, APIs et tests automatisés.
 
 ---
 
