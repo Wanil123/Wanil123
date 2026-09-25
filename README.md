@@ -22,7 +22,7 @@ Les projets clients et le code de Standelle ne sont pas publics. Les dépôts ci
 
 | Projet | Ce qu'il montre | Liens |
 | --- | --- | --- |
-| **5:7 — Festival de films** | Application React bilingue avec catalogue, réservation et espace d'administration. | [Code](https://github.com/Wanil123/cinema-57) · [Démo](https://wanil123.github.io/cinema-57/) |
+| **5:7 — Festival de films** | Prototype React bilingue avec catalogue et parcours de réservation. L'aperçu GitHub Pages présente l'interface; les fonctions serveur nécessitent l'API. | [Code](https://github.com/Wanil123/cinema-57) · [Aperçu](https://wanil123.github.io/cinema-57/) |
 | **WeatherPro** | Interface météo Vue 3 bilingue, responsive et attentive à l'accessibilité. | [Code](https://github.com/Wanil123/weatherpro-vue) · [Démo](https://wanil123.github.io/weatherpro-vue/) |
 | **API de données d'essais cliniques** | Projet de démonstration d'API REST avec FastAPI, validation, migrations et tests. | [Code](https://github.com/Wanil123/Clinical_Trials-Data_API) |
 
